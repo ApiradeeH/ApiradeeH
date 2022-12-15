@@ -3,6 +3,8 @@
 "_I spent more time 39,000 feet in the skies than on a land_
 and now..I'm ready to take a deep dive into **Tech**"
 
+- 📬 Hier is my email if you want to reach me apiradee.haeusler@dci.education
+
 ![Profile views](https://gpvc.arturio.dev/ApiradeeH)  
 <!---
 ApiradeeH/ApiradeeH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
