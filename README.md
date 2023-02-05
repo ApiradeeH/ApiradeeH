@@ -1,7 +1,6 @@
 ![Banner](https://user-images.githubusercontent.com/120387082/207740337-9d0f435e-ed2f-4a09-8421-32e9da127da8.png)
 
-"_I spent more time 39,000 feet in the skies than on a land_
-and now..I'm ready to take a deep dive into **Tech**"
+"_From flying.. to coding!_"
 
 - 📬 Hier is my email if you want to reach me apiradee.haeusler@dci.education
 
