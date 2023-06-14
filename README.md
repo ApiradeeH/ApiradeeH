@@ -2,7 +2,7 @@
 
 "_From flying.. to coding!_"
 
-- 📬 Hier is my email if you want to reach me apiradee.haeusler@dci.education
+- 📬 Here is my email address if you want to reach me apiradee.haeusler@dci.education
 
 ![Profile views](https://gpvc.arturio.dev/ApiradeeH)  
 <!---
