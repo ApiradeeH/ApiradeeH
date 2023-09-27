@@ -7,8 +7,13 @@ My journey in the world of coding has just begun 🚀.
 
 ### My Portfolio 🌟
 Check out my portfolio to get to know me better! 📂
-
 [Portfolio](https://apiradee-haeusler.netlify.app/)
+
+### Current Project 🌼
+
+I'm currently collaborating with my team on **Bloom Express**, a web project that you can explore here: 
+[Bloom Express](https://bloom-express.netlify.app)
+
 
 <!---
 ApiradeeH/ApiradeeH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
