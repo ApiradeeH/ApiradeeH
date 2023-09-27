@@ -2,9 +2,15 @@
 
 "_From flying.. to coding!_"
 
-- 📬 Here is my email address if you want to reach me apiradee.haeusler@dci.education
+# Hello, I'm Apiradee 👋
+My journey in the world of coding has just begun 🚀.
 
-![Profile views](https://gpvc.arturio.dev/ApiradeeH)  
+### My Portfolio 🌟
+Check out my portfolio to get to know me better! 📂
+
+[Portfolio](https://apiradee-haeusler.netlify.app/)
+
+![Profile views](https://gpvc.arturio.dev/ApiradeeH) 
 <!---
 ApiradeeH/ApiradeeH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
