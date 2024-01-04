@@ -14,7 +14,8 @@ Check out my portfolio to get to know me better! 📂
 I'm currently collaborating with my team on **Bloom Express**, a web project that you can explore here: 
 🌐 [Bloom Express](https://bloom-express.onrender.com)
 
-🔗 GitHub Repository: Explore our code on [GitHub](https://github.com/BloomExpress/bloom-express)
+GitHub Repository: Explore our code on:
+🔗 [GitHub](https://github.com/BloomExpress/bloom-express)
 <br>
 <br>
 
