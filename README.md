@@ -1,9 +1,15 @@
 ![Banner](https://user-images.githubusercontent.com/120387082/207740337-9d0f435e-ed2f-4a09-8421-32e9da127da8.png)
 
-"_From flying.. to coding!_"
+<p align="center">--- From flying.. to coding! ---</p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=ApiradeeH&label=Profile%20views&color=ff69b4&style=flat" alt="apiradee-h" />
+</p>
 
 # Hello, I'm Apiradee 👋
-My journey in the world of coding has just begun 🚀.
+
+### 📫 Connect with me: 
+[<img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.png" alt="ApiradeeH Linkedin" width="80" />](https://www.linkedin.com/in/apiradee-haeusler-b2b6a9155)
+
 
 ### My Portfolio 🌟
 Check out my portfolio to get to know me better! 📂
@@ -63,6 +69,8 @@ Feel free to explore our code on:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ApiradeeH&theme=omni&show_icons=true)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApiradeeH&theme=omni&show_icons=true&hide_progress=true)
+
+
 
 
 <!---
