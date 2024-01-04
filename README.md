@@ -69,7 +69,7 @@ Feel free to explore our code on:
 <br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ApiradeeH&theme=omni&show_icons=true)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApiradeeH&theme=omni&show_icons=true&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApiradeeH&theme=omni&show_icons=true&locale=en&layout=compact)
 
 
 
