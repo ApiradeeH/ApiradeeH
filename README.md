@@ -12,7 +12,10 @@ Check out my portfolio to get to know me better! 📂
 ### Current Project 🌼
 
 I'm currently collaborating with my team on **Bloom Express**, a web project that you can explore here: 
-[Bloom Express](https://bloom-express.onrender.com)
+🌐 [Bloom Express](https://bloom-express.onrender.com)
+
+🔗 GitHub Repository: Explore our code on [GitHub]([https://lnkd.in/e3n7Aktg](https://github.com/BloomExpress/bloom-express))
+
 
 
 <!---
