@@ -1,6 +1,6 @@
 ![Banner](https://user-images.githubusercontent.com/120387082/207740337-9d0f435e-ed2f-4a09-8421-32e9da127da8.png)
 
-<p align="center">--- From flying.. to coding! ---</p>
+<p align="center">--- From flying.. to coding ---</p>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=ApiradeeH&label=Profile%20views&color=ff69b4&style=flat" alt="apiradee-h" />
 </p>
