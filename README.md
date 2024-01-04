@@ -9,12 +9,12 @@ My journey in the world of coding has just begun 🚀.
 Check out my portfolio to get to know me better! 📂
 [Portfolio](https://apiradee-haeusler.netlify.app/)
 
-### Current Project 🌼
+### Latest Project 🌼
 
-I'm currently collaborating with my team on **Bloom Express**, a web project that you can explore here: 
+I collaborated with my team on **Bloom Express**, a web project that you can visit live here: 
 🌐 [Bloom Express](https://bloom-express.onrender.com)
 
-Explore our code on:
+Feel free to explore our code on:
 🔗 [GitHub](https://github.com/BloomExpress/bloom-express)
 <br>
 <br>
