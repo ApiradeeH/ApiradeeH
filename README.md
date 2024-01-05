@@ -25,7 +25,7 @@ Feel free to explore our code on:
 <br>
 <br>
 
-## Development Stack 🧰 
+## Tech Stack 🧰 
 
 ### Front-end:
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
