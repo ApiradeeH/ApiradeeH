@@ -66,11 +66,11 @@ Feel free to explore our code on:
 <br>
 
 ## GitHub Stats 📊 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ApiradeeH&theme=calm_pink&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ApiradeeH&theme=noctis_minimus&show_icons=true)
 <br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ApiradeeH&theme=calm_pink&show_icons=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ApiradeeH&theme=noctis_minimus&show_icons=true)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApiradeeH&theme=calm_pink&show_icons=true&locale=en&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApiradeeH&theme=noctis_minimus&show_icons=true&locale=en&layout=compact)
 
 
 
