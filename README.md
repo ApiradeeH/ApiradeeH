@@ -2,7 +2,7 @@
 
 <p align="center">--- From flying.. to coding ---</p>
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=ApiradeeH&label=Profile%20views&color=ff69b4&style=flat" alt="apiradee-h" />
+  <img src="https://komarev.com/ghpvc/?username=ApiradeeH&label=Profile%20views&color=A57755&style=flat" alt="apiradee-h" />
 </p>
 
 # Hello, I'm Apiradee 👋
@@ -66,11 +66,11 @@ Feel free to explore our code on:
 <br>
 
 ## GitHub Stats 📊 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ApiradeeH&theme=omni&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ApiradeeH&theme=calm_pink&show_icons=true)
 <br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ApiradeeH&theme=omni&show_icons=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ApiradeeH&theme=calm_pink&show_icons=true)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApiradeeH&theme=omni&show_icons=true&locale=en&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApiradeeH&theme=calm_pink&show_icons=true&locale=en&layout=compact)
 
 
 
