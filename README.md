@@ -1,4 +1,4 @@
-![Banner](https://user-images.githubusercontent.com/120387082/207740337-9d0f435e-ed2f-4a09-8421-32e9da127da8.png)
+![GitHubBanner](https://github.com/ApiradeeH/ApiradeeH/assets/120387082/decc19ce-496c-4a10-956a-8fc7a8bb32d7)
 
 <p align="center">--- From flying.. to coding ---</p>
 <p align="center"> 
